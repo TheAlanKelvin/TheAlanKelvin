@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+body{
+  color: black;
+  font-family:Oswald
+ display: none;
+}
+h1{
+  color: Purple;
+  font-family: Oswald;
+  font-size: 50px;
+}
+.skills{
+  color: Red;
+  font-family: Oswald;
+}
+.experience{
+  Color: Green;
+  font-family: Oswald;  
+}
+.thumbnail-picture {
+  border-radius: 100px;
+}
